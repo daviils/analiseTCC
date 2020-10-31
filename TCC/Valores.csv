@@ -1,0 +1,42 @@
+ Procedimentos hospitalares do SUS - por local de internação - Brasil
+Valor serviços hospitalaresValor serviços profissionaisValor médio internMédia permanênciaÓbitosTaxa mortalidade por Unidade da Federação
+Período:Ago/2020
+"Unidade da Federação";"Valor_serviços_hospitalares";"Valor_serviços_profissionais";"Valor_médio_intern";"Média_permanência";"Óbitos";"Taxa_mortalidade"
+"11 Rondônia";8537903,45;1747552,33;1572,46;5,4;421;6,44
+"13 Amazonas";11582855,83;3143587,84;1245,68;5,8;548;4,64
+"14 Roraima";2141637,15;684849,03;866,22;5,8;85;2,60
+"15 Pará";31165661,12;8698027,10;1306,76;4,8;1645;5,39
+"16 Amapá";2224269,67;718004,27;963,10;5,4;149;4,88
+"17 Tocantins";6524376,50;1715884,88;1347,33;4,8;333;5,44
+"21 Maranhão";22713670,31;5841528,12;1188,18;5,6;1076;4,47
+"22 Piauí";19090765,06;4119859,14;1843,72;5,2;762;6,05
+"23 Ceará";48313151,65;11489224,37;1807,67;6,0;2200;6,65
+"24 Rio Grande do Norte";19780230,31;5107013,92;1991,21;5,8;744;5,94
+"25 Paraíba";17902610,43;4227406,38;1843,86;6,3;986;8,22
+"26 Pernambuco";61952894,05;13746681,27;1907,24;5,6;2524;6,36
+"27 Alagoas";15866407,41;3876043,85;1691,33;5,6;722;6,18
+"28 Sergipe";8684978,35;2329202,54;1558,76;5,8;564;7,98
+"29 Bahia";65494828,45;15268463,10;1580,06;5,0;3040;5,95
+"31 Minas Gerais";138336493,40;29605593,79;1933,40;5,3;5750;6,62
+"32 Espírito Santo";26638545,50;5499807,58;2000,68;5,3;1102;6,85
+"33 Rio de Janeiro";78082254,78;17177026,99;1749,57;7,3;5086;9,34
+"35 São Paulo";286056122,87;60347649,74;1970,81;6,1;13289;7,56
+"41 Paraná";105501716,31;23874195,23;2226,36;4,7;3792;6,53
+"42 Santa Catarina";52084541,01;11807153,18;2073,93;4,9;2069;6,71
+"43 Rio Grande do Sul";84443704,25;16928153,38;1940,14;6,2;3864;7,40
+"50 Mato Grosso do Sul";15418115,75;3819725,00;1709,91;5,1;662;5,88
+"51 Mato Grosso";14457375,15;3333274,72;1499,68;4,6;771;6,50
+"52 Goiás";36250196,72;7636607,09;1933,14;5,6;1657;7,28
+"53 Distrito Federal";21945349,88;4580846,51;1613,71;5,4;978;5,95
+"Total";1201190655,36;267323361,35;1831,93;5,6;54819;6,84
+ Fonte: Ministério da Saúde - Sistema de Informações Hospitalares do SUS (SIH/SUS)
+ Notas:
+ 
+ Dados referentes aos últimos seis meses, sujeitos a  atualização.
+ A partir do processamento de junho de 2012, houve mudança na classificação da natureza e esfera dos estabelecimentos. Com isso, temos que:
+      
+      Até maio de 2012 estas informações estão disponíveis como "Natureza" e "Esfera Administrativa".
+      De junho de 2012 a outubro de 2015, estão disponíveis tanto como "Natureza" e "Esfera Administrativa", como "Natureza Jurídica" e "Esfera Jurídica".
+      A partir de novembro de 2015, estão disponíveis como "Natureza Jurídica" e "Esfera Jurídica".
+      
+ 
